@@ -1,0 +1,18 @@
+INICIO DO TREINAMENTO - Modelo: Rede_Neural_Simples
+Timestamp: 2025-08-31 15:20:01
+--------------------------------------------------
+Epoch 1/10 - loss: 0.50, accuracy: 0.80, tempo_execucao: 120s
+Epoch 2/10 - loss: 0.40, accuracy: 0.82, tempo_execucao: 118s
+Epoch 3/10 - loss: 0.30, accuracy: 0.85, tempo_execucao: 122s
+Epoch 4/10 - loss: 0.25, accuracy: 0.88, tempo_execucao: 121s
+Epoch 5/10 - loss: 0.20, accuracy: 0.90, tempo_execucao: 119s
+Epoch 6/10 - loss: 0.18, accuracy: 0.91, tempo_execucao: 123s
+Epoch 7/10 - loss: 0.15, accuracy: 0.92, tempo_execucao: 120s
+Epoch 8/10 - loss: 0.12, accuracy: 0.93, tempo_execucao: 118s
+Epoch 9/10 - loss: 0.10, accuracy: 0.94, tempo_execucao: 122s
+Epoch 10/10 - loss: 0.08, accuracy: 0.95, tempo_execucao: 121s
+--------------------------------------------------
+FIM DO TREINAMENTO
+Timestamp: 2025-08-31 15:40:21
+Tempo total de treinamento: 1204s
+Acurácia final: 95.0%
